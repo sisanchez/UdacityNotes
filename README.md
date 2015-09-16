@@ -26,7 +26,7 @@ o	Markup – what it looks like
 •	For italized <em> content </em> (inline)
 •	If you forget to close a tag everything after the open tag will be like that
 •	HTML Attributes (for links) (inline)
-o	<Tag attr = “value”> content </tag>
+//<Tag attr = “value”> content </tag>
 o	Anchor <a> - link
 o	<a href="www.reddit.com”>derp</a>
 •	Images <img> they don’t have closing tags
